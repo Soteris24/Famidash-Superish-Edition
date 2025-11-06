@@ -5,7 +5,7 @@ This is basically [Famidash](https://github.com/tfdsoft/famidash) (beta 5) for t
 
 So, I basically did nothing.
 
-This is your best bet until kando (the lead famidash dev) decides to make the real super famidash which is specifically designed for SNES and uses all of its capabilities.
+This is your best bet until kando (the lead famidash dev) OR ALEFUNKY OMG PLEASE IF YOU SEE THIS ITS YOUR SIGN decides to make the real super famidash which is specifically designed for SNES and uses all of its capabilities.
 
 Thank me later for saving you 20 mins for your life having to upload the ROM to the emulator exe converter.
 
